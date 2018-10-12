@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(192, 187, 187);
+}
+
+h1{
+    color: rgb(255, 0, 0);
+}
+
+.friend{
+    background: black;
+    color: rgb(226, 51, 7);
+}
+
+.friend h3{
+    text-transform: uppercase;
+}
